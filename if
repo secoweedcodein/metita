@@ -1,0 +1,15 @@
+public class Main {
+
+    public static void main(String[] args) {
+        int numerolf = -10;
+
+        if (numerolf > 0 ){
+            System.out.println("es positivo");
+        } else {
+            System.out.println("es negativo");
+        }
+
+
+
+    }
+}
