@@ -1,0 +1,16 @@
+package com.example;
+
+public class Ejercicio {
+    public static void main(String[] args) {
+        int ejemplo1 = 30;
+        long ejemplo2 = 202040;
+        double ejemplo3 = 41.60;
+        boolean ejemplo4 = true;
+        String ejemplo5 = "Este es un ejemplo";
+        System.out.println(ejemplo1);
+        System.out.println(ejemplo2);
+        System.out.println(ejemplo3);
+        System.out.println(ejemplo4);
+        System.out.println(ejemplo5);
+
+    }
